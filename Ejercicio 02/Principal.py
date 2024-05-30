@@ -17,5 +17,6 @@ def main():
 
     print("La suma de los productos: ", carrito.calcula_total())
 
-if __name__ == "__main__":
-    main()
+
+main()
+
